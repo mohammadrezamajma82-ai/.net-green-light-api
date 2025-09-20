@@ -1,0 +1,6 @@
+@MyGreenlightAPI_HostAddress = http://localhost:5293
+
+GET {{MyGreenlightAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
