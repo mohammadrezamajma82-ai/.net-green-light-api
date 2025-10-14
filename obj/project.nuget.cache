@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLgr4O7QcUg=",
+  "dgSpecHash": "dHf9Pf3EO3s=",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\greenApi\\MyGreenlightAPI\\MyGreenlightAPI.csproj",
+  "projectFilePath": "F:\\bbb\\.net-green-light-api\\MyGreenlightAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\0371991552\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
     "C:\\Users\\0371991552\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
