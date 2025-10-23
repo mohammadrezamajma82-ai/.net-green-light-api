@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyGreenlightAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ba9d819d9d71297ae54234dcfbbea69e6e4409e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b5d471fb05928156986e3c31799c0ccbac07699")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyGreenlightAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyGreenlightAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
